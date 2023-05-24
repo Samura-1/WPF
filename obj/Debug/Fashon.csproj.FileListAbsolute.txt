@@ -1,0 +1,57 @@
+C:\Users\777\Desktop\Паша курсовая\Fashon\obj\Debug\Fashon.csprojAssemblyReference.cache
+C:\Users\777\Desktop\Паша курсовая\Fashon\obj\Debug\MainWindow.g.cs
+C:\Users\777\Desktop\Паша курсовая\Fashon\obj\Debug\App.g.cs
+C:\Users\777\Desktop\Паша курсовая\Fashon\obj\Debug\MainWindow.baml
+C:\Users\777\Desktop\Паша курсовая\Fashon\obj\Debug\Fashon.Properties.Resources.resources
+C:\Users\777\Desktop\Паша курсовая\Fashon\obj\Debug\Fashon.csproj.GenerateResource.cache
+C:\Users\777\Desktop\Паша курсовая\Fashon\obj\Debug\Fashon.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\Паша курсовая\Fashon\bin\Debug\EntityFramework.dll
+C:\Users\777\Desktop\Паша курсовая\Fashon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\777\Desktop\Паша курсовая\Fashon\bin\Debug\EntityFramework.xml
+C:\Users\777\Desktop\Паша курсовая\Fashon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\777\Desktop\Паша курсовая\Fashon\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\777\Desktop\Паша курсовая\Fashon\obj\Debug\ListService.g.cs
+C:\Users\777\Desktop\Паша курсовая\Fashon\obj\Debug\Register.g.cs
+C:\Users\777\Desktop\Паша курсовая\Fashon\obj\Debug\ListService.baml
+C:\Users\777\Desktop\Паша курсовая\Fashon\obj\Debug\Register.baml
+C:\Users\777\Desktop\Паша курсовая\Fashon\obj\Debug\Fashon.csproj.CopyComplete
+C:\Users\777\Desktop\Паша курсовая\Fashon\obj\Debug\Add.g.cs
+C:\Users\777\Desktop\Паша курсовая\Fashon\obj\Debug\Add.baml
+C:\Users\777\Desktop\Паша курсовая\Fashon\bin\Debug\APTEKA.exe.config
+C:\Users\777\Desktop\Паша курсовая\Fashon\bin\Debug\APTEKA.exe
+C:\Users\777\Desktop\Паша курсовая\Fashon\bin\Debug\APTEKA.pdb
+C:\Users\777\Desktop\Паша курсовая\Fashon\obj\Debug\APTEKA_Content.g.cs
+C:\Users\777\Desktop\Паша курсовая\Fashon\obj\Debug\APTEKA_MarkupCompile.cache
+C:\Users\777\Desktop\Паша курсовая\Fashon\obj\Debug\APTEKA_MarkupCompile.lref
+C:\Users\777\Desktop\Паша курсовая\Fashon\obj\Debug\APTEKA.g.resources
+C:\Users\777\Desktop\Паша курсовая\Fashon\obj\Debug\APTEKA.exe
+C:\Users\777\Desktop\Паша курсовая\Fashon\obj\Debug\APTEKA.pdb
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\bin\Debug\APTEKA.exe.config
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\bin\Debug\APTEKA.exe
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\bin\Debug\APTEKA.pdb
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\bin\Debug\EntityFramework.dll
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\bin\Debug\EntityFramework.SqlServer.dll
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\bin\Debug\EntityFramework.xml
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\bin\Debug\EntityFramework.SqlServer.xml
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\bin\Debug\ru\EntityFramework.resources.dll
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\obj\Debug\Fashon.csproj.AssemblyReference.cache
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\obj\Debug\Fashon.csproj.SuggestedBindingRedirects.cache
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\obj\Debug\Add.g.cs
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\obj\Debug\ListService.g.cs
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\obj\Debug\MainWindow.g.cs
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\obj\Debug\Register.g.cs
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\obj\Debug\App.g.cs
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\obj\Debug\APTEKA_Content.g.cs
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\obj\Debug\APTEKA_MarkupCompile.cache
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\obj\Debug\APTEKA_MarkupCompile.lref
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\obj\Debug\Add.baml
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\obj\Debug\ListService.baml
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\obj\Debug\MainWindow.baml
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\obj\Debug\Register.baml
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\obj\Debug\APTEKA.g.resources
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\obj\Debug\Fashon.Properties.Resources.resources
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\obj\Debug\Fashon.csproj.GenerateResource.cache
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\obj\Debug\Fashon.csproj.CoreCompileInputs.cache
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\obj\Debug\Fashon.csproj.CopyComplete
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\obj\Debug\APTEKA.exe
+F:\qsoft\ПРоекты с флешки и qsft\-----\4КАА\Паша курсовая\Fashon\obj\Debug\APTEKA.pdb
